@@ -3,6 +3,14 @@ uuid = "37971928-86e1-4569-95d0-c97b2346e68c"
 authors = ["Matthew Schlegel <mkschleg@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
+MinimalRLCore = "4557a151-568a-41c4-844f-9d8069264cea"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+
 [compat]
 julia = "1"
 
